@@ -11,6 +11,6 @@ namespace Document
         private string data;
         private string filename;
 
-        public string open
+        public string ope
     }
 }
